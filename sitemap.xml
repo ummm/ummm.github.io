@@ -15,20 +15,5 @@
     <priority>1.0</priority>
   </url>
 
-
-  <url>
-    <loc>http://www.ummm.info/news/2013/09/08/site-renewal.html</loc>
-    <lastmod>2013-09-08T19:43:32+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.2</priority>
-  </url>
-
-  <url>
-    <loc>http://www.ummm.info/news/2013/04/23/hello-world.html</loc>
-    <lastmod>2013-04-23T22:30:16+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.2</priority>
-  </url>
-
 </urlset>
 
