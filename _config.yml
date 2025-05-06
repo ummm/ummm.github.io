@@ -18,17 +18,16 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-repository: hamajyotan/hamajyotan.github.io
-title: Takashi SAKAGUCHI
-email: hamajyotan@gmail.com
+repository: ummm/ummm.github.io
+title: Office UMMM
+email: info@ummm.info
 
 description: >- # this means to ignore newlines until "baseurl:"
-  Freelance software engineer. Takashi SAKAGUCHI. (@hamajyotan)
+  主に Ruby + Rails や PHP, Java などシステム開発手法と IT 技術を用い、うーむ…とお悩みのお客様へ革新的なご提案を生むことを信条とする IT企業。鳥取県発、オフィスウームの企業サイトです。
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://hamajyotan.github.io"
-twitter_username: hamajyotan
-github_username: hamajyotan
+url: "https://www.ummm.info"
+github_username: ummm
 
 # Build settings
 plugins:

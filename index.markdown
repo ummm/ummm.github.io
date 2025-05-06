@@ -5,69 +5,60 @@
 layout: post
 ---
 
-# Takashi SAKAGUCHI
+# Office UMMM
+
+お客様の悩みごと、我々にも少しだけ一緒に悩ませていただけないでしょうか？  
+その結果、課題に対する最高の解決方法を生むことをお約束致します。
 
 ![logo]({{site.baseurl}}/assets/images/logo.png)
 
-- 坂口孝志 (さかぐちたかし)
-- @hamajyotan
+## ummm
 
-## Profile
+うーむとお悩みの際には是非ご用命を！
 
-### Freelance software engineer
+- オフィスウーム合同会社
+- 郵便番号680-0864
+- 鳥取市吉成734-17
+- 代表社員 社長 坂口孝志
+- [info@ummm.info](mailto:info@ummm.info)
 
-- STORES
-    - 2021/01 - now
-    - Ruby on Rails
-- freee Sign (-> freee)
-    - 2021/04 - 2023/12, 2024/01 - 2024/06
-    - Ruby on Rails
-- Sight Visit
-    - 2020/10 - 2020/12
-    - Ruby on Rails
-- Vecnos
-    - 2019/11 - 2021/06
-    - React Native
-- CrowdWorks
-    - 2012/07 - 2020/09
-    - Ruby on Rails
+## 坂口孝志について
 
-## Licenses
+- [代表 坂口孝志](https://hamajyotan.github.io)
 
-- [Scrum Alliance Certified ScrumMaster](https://bcert.me/bc/html/show-badge.html?b=abchqzke)  
-  ![]({{site.baseurl}}/assets/images/csm.png)
-- [Ruby Association Certified Ruby Programmer Gold version 2.1](https://www.ruby.or.jp/ja/certification/examination/version2.1)
+## 概要
 
-## Skills
+鳥取で働くITエンジニアです。  
+うーむ… とお悩みのお客様、ITのことならウームにおまかせください！
 
-Ruby on Rails <3
+### 事業内容
 
-Scrum, Agile, XP,
-RSpec, minitest, Capybara, etc.
+- システム開発
+    - Linux + Ruby/Ruby on Rails を基盤とした構築を得意としています
+    - もちろんそれに限らず、幅広くサポート可能です
+- ソフトウェア開発技術コンサルティングサービス
+    - 主に、 Ruby/Ruby on Rails を用いた開発についての技術支援や相談をお受けいたします
+    - スポットでのソースコードレビューなどにもご対応可能です
+- ホームページ作成
+    - CMS を用いた Web サイトの構築
+    - ドメイン取得代行
+    - 運営サポートとともにアクセス解析結果からの改善提案
 
-## Products
+### 技術
 
-- [active_record_compose](https://github.com/hamajyotan/active_record_compose)
-    - [Smart way to update multiple models simultaneously in Rails](https://dev.to/hamajyotan/smart-way-to-update-multiple-models-simultaneously-in-rails-51b6)
-    - [Rails で複数のモデルを同時に更新するスマートな方法](https://zenn.dev/hamajyotan/articles/3e618ed8b6d22b)
+- Ruby + Ruby on Rails
+- Java, Scala
+- C#, Visual Basic
+- C, C++, etc.
+- PHP
 
-## Writing
+### 事業沿革
 
-### CrowdWorks Engineer Blog
-
-- [クラウドテックのテーブル構造を改善していった話](https://engineer.crowdworks.jp/entry/2020/09/29/171022)
-
-### Others
-
-- [zenn.dev](https://zenn.dev/hamajyotan)
-- [Qiita](https://qiita.com/hamajyotan)
-- [DEV Community](https://dev.to/hamajyotan)
-
-## Contact
-
-- [GitHub](https://github.com/hamajyotan)
-- [twitter](https://x.com/hamajyotan)
-- [Bluesky](https://bsky.app/profile/hamajyotan.bsky.social)
-- [facebook](https://www.facebook.com/hamajyotan)
-- [Business card (Eight)](https://8card.net/virtual_cards/Ifg-B5d5-eQw11A_furVyw)
+- 2015/03/02
+    - 法人化。オフィスウーム合同会社
+- 2013/02/01
+    - Ruby on Rails を用いたソフトウェア開発事業開始
+    - Ruby を用いたソフトウェア開発技術コンサルティングサービス事業開始
+- 2013/01/01
+    - 設立
 
