@@ -7,10 +7,11 @@ layout: post
 
 # Office UMMM
 
+![logo]({{site.baseurl}}/assets/images/logo-title-rect-white.png)
+
+{: align="center"}
 お客様の悩みごと、我々にも少しだけ一緒に悩ませていただけないでしょうか？  
 その結果、課題に対する最高の解決方法を生むことをお約束致します。
-
-![logo]({{site.baseurl}}/assets/images/logo.png)
 
 ## ummm
 
@@ -51,6 +52,7 @@ layout: post
 - C#, Visual Basic
 - C, C++, etc.
 - PHP
+- etc.
 
 ### 事業沿革
 
@@ -62,3 +64,5 @@ layout: post
 - 2013/01/01
     - 設立
 
+{: align="center"}
+![logo]({{site.baseurl}}/assets/images/logo.png)
